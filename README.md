@@ -2,7 +2,12 @@
 
 ![imagen](images/imagen3.jpg)
 
-
+Para el README (estructura libre, pero cosas a considerar):
+Introducción (qué es este repositorio)
+Objetivo ( ¿Qué quiero conseguir?)
+Datos (fuente, organización, estructura, cualidades)
+Resultados/conclusiones (cómo queda tras la limpieza, ¿gráficas con resultados?)
+Technology Stack ( Que librerías he usado y link a su documentación)
 
 ## ✨ Introducción ✨
 Este proyecto tiene como objeto el estudiar los ataques de tiburón reportados alrededor del mundo desde hace más de 50 años. Para ello estamos utilizando una base de datos en formato CSV (Comma Separated Values) de la página web kaggle.
