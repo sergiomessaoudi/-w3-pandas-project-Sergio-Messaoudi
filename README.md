@@ -1,13 +1,15 @@
 🩸🦈 ATAQUES DE TIBURÓN ALREDEDOR DEL MUNDO 🦈🩸
 
 ![imagen](images/imagen2.jpg)
-![elgif](https://i.kym-cdn.com/photos/images/original/000/908/315/a64.gif)
+
 
 
 ## ✨ Introducción ✨
 Este proyecto tiene como objeto el estudiar los ataques de tiburón reportados alrededor del mundo desde hace más de 50 años. Para ello estamos utilizando una base de datos en formato CSV (Comma Separated Values) de la página web kaggle.
 El link para revisar esta base de datos se puede encontrar
   [aquí](https://www.kaggle.com/teajay/global-shark-attacks).
+  
+ ![elgif](https://i.kym-cdn.com/photos/images/original/000/908/315/a64.gif)
 
 ¿Estás interesado en saber todo sobre los ataques de tiburones? ¿Cuántos ataques de tiburón se registran al año? ¿Cómo ha evolucionado esta tasa a lo largo de la historia? 
 ¿Dónde es más probable que te ataque un tiburón? Si quieres tratar de dar luz a estas preguntas y otras.... no se pierda el desarrollo de esta investigación!
