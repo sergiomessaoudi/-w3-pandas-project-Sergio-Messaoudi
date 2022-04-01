@@ -1,6 +1,6 @@
        🩸🦈 ATAQUES DE TIBURÓN ALREDEDOR DEL MUNDO 🦈🩸
 
-![imagen](images/imagen2.jpg)
+![imagen](images/imagen3.jpg)
 
 
 
