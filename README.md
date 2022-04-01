@@ -1,4 +1,4 @@
-# 🩸🦈 ATAQUES DE TIBURÓN ALREDEDOR DEL MUNDO 🦈🩸
+# 🩸🦈 ATAQUES DE TIBURÓN POR DEL MUNDO 🦈🩸
 
 ![imagen](images/imagen3.jpg)
 
