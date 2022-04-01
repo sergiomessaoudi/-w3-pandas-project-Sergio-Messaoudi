@@ -1,4 +1,4 @@
-# 🩸🦈 ATAQUES DE TIBURÓN POR DEL MUNDO 🦈🩸
+# 🩸🦈Sharks Attack Around the World 🦈🩸
 
 ![imagen](images/imagen3.jpg)
 
